@@ -1,0 +1,2 @@
+20250410	23:05:52	a4dde2f4-efdb-4e2d-a437-437af071c842	Error: Not allowed by CORS
+20250410	23:11:24	8f50141f-a872-4874-903a-aa338bf58c56	ReferenceError: sendFile is not defined
